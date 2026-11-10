@@ -221,9 +221,9 @@ window.MAGAZINE = {
     title: "For you, on our first year",
     greeting: "Dear {nickname},",
     paragraphs: [
-      "Write your letter here. Tell her what this year has meant to you — the little things she does that nobody else notices, the moment you knew, the ways she makes ordinary days better.",
-      "Add as many paragraphs as you like. Specific beats poetic: one real memory says more than ten pretty words.",
-      "Thank you for every pizza, every late call, every ragebait selfie. Here's to all the issues still to come.",
+      "My dear soobi doobi, first of all a VERY BERRY HAPPY ANNIVERSARY 🥰🥰🥰",
+      "I knew from the first date itself that we were gonna make it this far and more cause you are the best woman I've met. You are literally the beam of happiness and laughter in my life. Ever since I met you, life has been easier as if you've taken off the load off my shoulders. I know I've been bhondu sometimes and hurt you which I never meant to, but I promise you my cudu I love you the mostttt 🥺💋 ",
+      "I hope we keep having our gaandmasti and enjoy the time together in future as well (on a whole new level once we get jobs and our own place 🥰😋)"
     ],
     signoff: "Yours, always —",
     signature: "{yourName}",
