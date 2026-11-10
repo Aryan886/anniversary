@@ -134,7 +134,7 @@ window.MAGAZINE = {
       toc: false,
       kicker: "Festives · Part 01",
       title: "Halloween",
-      text: "Hoodies, beanies, tacos and zero fear — except of how cute you looked.",
+      text: "Hoodies, beanies, tacos and surprisingly a noticeable costume, all thanks to you my Rasmalai.",
       rows: [2, 3],
       images: [
         { src: P + "halloween1.jpeg", ar: "3 / 4" },
